@@ -1,0 +1,11 @@
+body {
+  background-color: lightgrey;
+}
+.container {
+  width: 50%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  position: absolute;
+  transform: translate(50%, 15%);
+}
